@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hello there! I'm Jihan Humaira, a student based in Yogyakarta, Indonesia.<br><br>I love building things and solving problems through code. My journey in tech started with learning basic HTML and now I'm expanding my skills in C++, Vue, JavaScript, and PHP. <br><br>Outside of my main studies, I am also a big fan of gaming, and Music. I believe that continuous learning is the key to success and I'm always looking for new challenges to grow.<br><br>- 
+Hello there! I'm Jihan Humaira, a student based in Yogyakarta, Indonesia.<br><br>I love building things and solving problems through code. My journey in tech started with learning basic HTML and now I'm expanding my skills in C++, Vue, JavaScript, and PHP. <br><br>Outside of my main studies, I am also a big fan of gaming, and Music. I believe that continuous learning is the key to success and I'm always looking for new challenges to grow.<br><br>
 
 
 ## 🌐 Socials:
